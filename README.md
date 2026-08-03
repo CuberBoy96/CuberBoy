@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CuberBoy/CuberBoy/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CuberBoy/CuberBoy/main/light.svg">
-  <img alt="Abhaykant Vishwakarma" src="https://raw.githubusercontent.com/CuberBoy/CuberBoy/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CuberBoy96/CuberBoy/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CuberBoy96/CuberBoy/main/light.svg">
+  <img alt="Abhaykant Vishwakarma" src="https://raw.githubusercontent.com/CuberBoy96/CuberBoy/main/light.svg">
 </picture>
 
 <div align="center">
@@ -13,9 +13,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CuberBoy/CuberBoy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CuberBoy/CuberBoy/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/CuberBoy/CuberBoy/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CuberBoy96/CuberBoy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CuberBoy96/CuberBoy/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/CuberBoy/CuberBoy96/output/github-snake.svg" />
 </picture>
 </div>
 
